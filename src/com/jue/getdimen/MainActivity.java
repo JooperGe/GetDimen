@@ -7,6 +7,7 @@ import android.util.Log;
 import android.widget.TextView;
 
 /**
+ * 获取手机分辨率和读取的资源文件
  * 
  * @author Jooper
  *
