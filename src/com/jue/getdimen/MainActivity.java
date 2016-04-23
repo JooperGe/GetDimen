@@ -6,6 +6,11 @@ import android.util.DisplayMetrics;
 import android.util.Log;
 import android.widget.TextView;
 
+/**
+ * 
+ * @author Jooper
+ *
+ */
 public class MainActivity extends Activity {
 
 	private TextView mTextView1;
