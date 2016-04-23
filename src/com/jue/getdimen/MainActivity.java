@@ -9,6 +9,8 @@ import android.widget.TextView;
 /**
  * 获取手机分辨率和读取的资源文件
  * 
+ * 我是一个分支：GetDimen-Branches1
+ * 
  * @author Jooper
  *
  */
